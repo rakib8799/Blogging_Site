@@ -1,0 +1,41 @@
+{
+  "name": "multi-author-blogging-site",
+  "version": "1.0.0",
+  "description": "It's a multi author blogging site using MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MERN",
+    "stack",
+    "MongoDB",
+    "ExpressJS",
+    "ReactJS",
+    "NodeJS",
+    "Blog",
+    "website",
+    "Multi",
+    "Author",
+    "Blog"
+  ],
+  "author": "Mehedi Khan Rakib",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.1",
+    "concurrently": "^7.4.0",
+    "cookie-parser": "^1.4.6",
+    "date-and-time": "^2.4.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "formidable": "^2.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.6.5",
+    "nodemailer": "^6.8.0",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
